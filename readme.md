@@ -1,5 +1,5 @@
 
-#First repository with exercises in dPrep
+# First repository with exercises in dPrep
 
 # Example of reproducible research workflow 
 
